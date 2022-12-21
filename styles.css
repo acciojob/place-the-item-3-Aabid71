@@ -1,2 +1,6 @@
-
+.holder{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
 /* Your CSS Code here. */
